@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "356045958715",
+    "project_id": "go-checkin-pos",
+    "storage_bucket": "go-checkin-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356045958715:android:c4c50f6b67e159a24eb61e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356045958715-s363cpiq534uu9drd7prutrr8t403smr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWo5oRVNrx1SQCT4Xyzk7Mz4PhQR-On4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356045958715-s363cpiq534uu9drd7prutrr8t403smr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356045958715:android:529cee67c5e7da854eb61e",
+        "android_client_info": {
+          "package_name": "net.gocheckin.businessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356045958715-s363cpiq534uu9drd7prutrr8t403smr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWo5oRVNrx1SQCT4Xyzk7Mz4PhQR-On4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356045958715-s363cpiq534uu9drd7prutrr8t403smr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
